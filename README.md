@@ -1,7 +1,3 @@
-Got it, here's everything for the GitHub page:
-
----
-
 # Goobo Sr. — Version 3
 ### Autonomous Desktop Companion Robot | ESP32
 
@@ -186,4 +182,4 @@ Eye animation engine by [FluxGarage RoboEyes](https://github.com/FluxGarage/Robo
 
 ---
 
-*Goobo Sr. Version 3 — 2025*
+*Goobo Sr. Version 3 — 2026*
