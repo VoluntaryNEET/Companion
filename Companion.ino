@@ -28,8 +28,8 @@ int  relationshipMeter = 0;
 #define MPU6050_ADDRESS 0x68  // 0x68 if AD0 is low, 0x69 if HIGH
 
 // ─── PIN DECLARATIONS ──────────────────────────────────────────────────────
-#define SDA_PIN 18
-#define SCL_PIN 21
+#define SDA_PIN 21
+#define SCL_PIN 18
 
 // ─── GLOBALS ───────────────────────────────────────────────────────────────
 Adafruit_MPU6050             mpu;
