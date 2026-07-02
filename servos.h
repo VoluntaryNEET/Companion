@@ -3,8 +3,8 @@
 #include "globals.h"
 
 // ─── PIN DEFINITIONS ───────────────────────────────────────────────────────
-#define SERVO_LEFT_PIN  15
-#define SERVO_RIGHT_PIN 22
+#define SERVO_LEFT_PIN  22
+#define SERVO_RIGHT_PIN 15
 
 // ─── SERVO POSITIONS ───────────────────────────────────────────────────────
 #define SERVO_UP      170   // arm raised
